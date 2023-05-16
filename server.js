@@ -22,7 +22,7 @@ const cId = '642165506218-o40ba632i6f86djuhpc808fsi7fbd1ns.apps.googleuserconten
 const cSecret = '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';
 
 // change to host url
-const redirectMainUrl = 'http://localhost:8080';
+const redirectMainUrl = 'https://a6-oauth-2.wl.r.appspot.com';
 
 // Random string generator for state from:
 // https://stackoverflow.com/questions/16106701/how-to-generate-a-random-string-of-letters-and-numbers-in-javascript
