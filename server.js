@@ -14,12 +14,12 @@ app.set('view engine', 'handlebars');
 app.set('views', './views');
 
 const datastore = new Datastore({
-    projectId: 'a6-oauth-386900',
+    projectId: 'a6-oauth-2',
 });
 
 const STATE = 'State';
-const cId = '749536876-c2bchdu53i8kcitb9fed0d267r929j51.apps.googleusercontent.com';
-const cSecret = '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';
+const cId = '642165506218-o40ba632i6f86djuhpc808fsi7fbd1ns.apps.googleusercontent.com';
+const cSecret = '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';
 
 // change to host url
 const redirectMainUrl = 'http://localhost:8080';
